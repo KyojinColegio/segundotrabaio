@@ -1,0 +1,42 @@
+.gian {
+    width: 600px;
+    height: 500px;
+    padding: 20px 20px 20px 70px;
+}
+.btgian {
+    width: 200px;
+    height: 40px;
+    border-radius: 15px;
+}
+.mano {
+    width: 600px;
+    height: 500px;
+    padding: 20px 20px 20px 70px;
+} 
+.btmano {
+    width: 200px;
+    height: 40px;
+    border-radius: 15px;
+}
+.teus {
+    width: 600px;
+    height: 500px;
+    padding: 20px 20px 20px 70px;
+}
+.btteus {
+    width: 200px;
+    height: 40px;
+    border-radius: 15px;
+}
+.titulo{
+    color: white;
+}
+.stitulo{
+    color: white;
+}
+.container__botao{
+    background-color:var(--botao-azul);
+    border-radius: 5px;
+    padding: 1em;
+    color:var(--branco-principal);
+}
